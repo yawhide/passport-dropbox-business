@@ -1,0 +1,35 @@
+{
+  "name": "passport-dropbox-business",
+  "version": "1.0.0",
+  "description": "Passport strategy for authenticating with Dropbox for Business using the OAuth 2.0 API",
+  "directories": {},
+  "main": "./lib/passport-dropbox-business",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yawhide/passport-dropbox-business.git"
+  },
+  "keywords": [
+    "dropbox for business",
+    "passport",
+    "oauth2",
+    "auth"
+  ],
+  "author": "https://github.com/yawhide",
+  "license": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/yawhide/passport-dropbox-business/issues"
+  },
+  "homepage": "https://github.com/yawhide/passport-dropbox-business#readme",
+  "dependencies": {
+    "passport-oauth": "^1.0.0",
+    "pkginfo": "^0.4.1"
+  }
+}
