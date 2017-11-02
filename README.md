@@ -60,4 +60,4 @@ Tests not yet provided
 This strategy is based on Jared Hanson's GitHub strategy for passport: [Jared Hanson](http://github.com/jaredhanson)
 
 ## Credits and License
-express-sslify is licensed under the MIT license. If you'd like to be informed about new projects follow  [@TheSumOfAll](http://twitter.com/TheSumOfAll/).
+Inspiration from https://github.com/florianheinemann/passport-dropbox-oauth2
